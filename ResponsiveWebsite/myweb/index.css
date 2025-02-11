@@ -3,7 +3,10 @@
     font-family: poppins,sans-serif;
     color: #fff;
 }
-
+*::selection{
+    background-color: #fff;
+    color: #95C11E;
+}
 
 body{
 align-items: center;
